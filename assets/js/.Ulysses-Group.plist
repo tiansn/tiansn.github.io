@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>jquery-1.12.0.min.js</string>
+		</array>
+		<array>
+			<string>jquery.dlmenu.min.js</string>
+		</array>
+		<array>
+			<string>jquery.fitvid.min.js</string>
+		</array>
+		<array>
+			<string>jquery.goup.min.js</string>
+		</array>
+		<array>
+			<string>jquery.magnific-popup.min.js</string>
+		</array>
+		<array>
+			<string>modernizr-3.3.1.custom.min.js</string>
+		</array>
+		<array>
+			<string>scripts.js</string>
+		</array>
+		<array>
+			<string>wow.min.js</string>
+		</array>
+	</array>
+</dict>
+</plist>
