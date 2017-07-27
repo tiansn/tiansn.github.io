@@ -2,6 +2,7 @@
 layout: post
 title:  "javascript类数组转化成数组的几种方法"
 date:   2017-07-20
+comments: true
 tag:
 - arguments
 - 类数组
