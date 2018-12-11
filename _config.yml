@@ -1,7 +1,7 @@
 # Site
-title:              welcome to tiansn's homepage 
-bio:                “If you wou'd not be forgotten As soon as you are dead and rotten, Either write things worth reading, or do things worth the writing.”
-description:        "a web developer "
+title:              tiansn's homepage
+bio:                “终身学习者”
+description:        "front-end developer"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
