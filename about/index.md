@@ -7,7 +7,7 @@ comments: false
 ---
 
 - job:  Web前端开发
-- email:    tiansnyang@gmail.com
+- email:    tiansnyang#gmail.com
 - qq:   418728197
 
 扫描下面二维码加我微信
